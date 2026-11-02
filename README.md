@@ -10,3 +10,9 @@ Rehan's resturant.  |Rehan's restaurant.   |
                     |                      |
   item2 image       |.     item 2 image.   |
 --------------------------------------------
+
+at bottom 
+
+___________________________________|
+<Checkbox>dollar | rupee</Checkbox>|
+-----------------------------------|
