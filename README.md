@@ -2,7 +2,7 @@
 ###### delete this later 
 before.                after
 ___________________________________________
-Rehan's resturant.  |Rehan's restaurant.   |
+food's resturant.  |foods's restaurant.   |
                     |.                     |
      item 1 image.  |.   item 1 image.     |
                     |.                     |

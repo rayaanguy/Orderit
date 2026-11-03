@@ -1,0 +1,27 @@
+.pizza {
+    border: 1px solid black;
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+
+
+}
+p{
+    margin: 20px;
+}
+button{
+    margin: 20px;
+}
+.burger{
+    border: 1px solid black;
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+}
+.food-container{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
