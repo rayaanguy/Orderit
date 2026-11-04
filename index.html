@@ -3,26 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>food order system</title>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <h1>Food order system</h1>
+    <h1 id="title">Food order system</h1>
     <div class="food-container">
-    <div class="pizza">
-     <img src="https://img.magnific.com/free-psd/delicious-pepperoni-pizza-culinary-delight_632498-24206.jpg?semt=ais_hybrid&w=740&q=80" height="50%" style="margin: 20px;" alt="Pizza">
-     <p>quantity: 0</p>
-     <button class="add">Add</button>
-     <button class="remove">Remove</button>
+        <div class="pizza">
+            <img src="https://img.magnific.com/free-psd/delicious-pepperoni-pizza-culinary-delight_632498-24206.jpg?semt=ais_hybrid&w=740&q=80" height="50%" style="margin: 20px;" alt="Pizza">
+            <p id="p-quantity">quantity: 0</p>
+            <p id="p-total">Total: $0.00</p>
+            <button class="add" onclick="padd()">Add</button>
+            <button class="remove" onclick="psub()">Remove</button>
+        </div>
+        <div class="burger">
+            <img src="https://img.magnific.com/free-psd/juicy-cheeseburger-gourmet-burger-perfection_632498-25274.jpg?semt=ais_hybrid&w=740&q=80" height="50%" style="margin: 20px;" alt="Burger">
+            <p id="b-quantity">quantity: 0</p>
+            <p id="b-total">Total: $0.00</p>
+            <button class="add" onclick="badd()">Add</button>
+            <button class="remove" onclick="bsub()">Remove</button>
+        </div>
     </div>
-    <div class="burger">
-        <img src="https://img.magnific.com/free-psd/juicy-cheeseburger-gourmet-burger-perfection_632498-25274.jpg?semt=ais_hybrid&w=740&q=80" height="50%" style="margin: 20px;" alt="Burger">
-        <p>quantity: 0</p>
-        <button class="add">Add</button>
-        <button class="remove">Remove</button>
+    <div id="total-container">
+        <p id="total">Total: $0.00</p>
     </div>
-    </div>
-    
     <script src="index.js"></script>
 </body>
 </html>

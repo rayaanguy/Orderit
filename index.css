@@ -1,10 +1,8 @@
 .pizza {
     border: 1px solid black;
     margin: 20px;
-    height: 300px;
+    height: 400px;
     width: 300px;
-
-
 }
 p{
     margin: 20px;
@@ -15,13 +13,20 @@ button{
 .burger{
     border: 1px solid black;
     margin: 20px;
-    height: 300px;
+    height: 400px;
     width: 300px;
 }
 .food-container{
     display: flex;
     justify-content: space-around;
 }
-h1{
+#title{
     text-align: center;
+}
+#total-container{
+    text-align: center;
+    margin: 20px auto 0;
+    border: 1px solid black;
+    height: 100px;
+    width: 960px;
 }
