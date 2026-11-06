@@ -1,9 +1,9 @@
 
 # ordering system 
 ## Introduction -
-This is a  ordering system where we can add items and see the total price to pay in this way 
+This is a  ordering system where we can add items and see the total price to pay and make a functional fake ordering system 
 ## Tools used-
-for creating html css js and for hosting(GitHub pages) and vs code for doing thework
+for creating html css js and for hosting(GitHub pages) 
 ## how to access-
 you can access my website by clicking on this link (https://rayaanguy.github.io/Orderit/)
 ## Why you have created -
