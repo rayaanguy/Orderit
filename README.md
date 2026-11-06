@@ -1,8 +1,10 @@
-![Uploading Screenshot_20261106-192125.png…]()
+
 # ordering system 
 ## Introduction -
 This is a  ordering system created using html css js
 ## Tools used-
-for creating html css js and for hosting()
+for creating html css js and for hosting(GitHub pages)
 ## how to access-
-you can acesss my website by clicking on this link ()
+you can access my website by clicking on this link (https://rayaanguy.github.io/Orderit/)
+<img width="400" height="250" alt="Screenshot_20261106-192125" src="https://github.com/user-attachments/assets/79dfa9a5-12d4-42d6-9e6b-865c37430a9d" />
+
