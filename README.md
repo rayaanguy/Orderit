@@ -1,4 +1,4 @@
-# design
+# ordering system 
 ## Introduction -
 This is a  ordering system created using html css js
 ## Tools used-
