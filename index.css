@@ -3,6 +3,7 @@
     margin: 20px;
     height: 400px;
     width: 300px;
+    background-color: #DDD8B8;
 }
 p{
     margin: 20px;
@@ -15,6 +16,7 @@ button{
     margin: 20px;
     height: 400px;
     width: 300px;
+    background-color: #B3CBB9;
 }
 .food-container{
     display: flex;
@@ -29,4 +31,8 @@ button{
     border: 1px solid black;
     height: 100px;
     width: 960px;
+    background-color: #F2E3D5;
+}
+body{
+    background-color: #84A9C0;
 }
